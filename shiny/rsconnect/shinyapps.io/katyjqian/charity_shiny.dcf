@@ -1,0 +1,12 @@
+name: charity_shiny
+title: charity_shiny
+username:
+account: katyjqian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 911071
+bundleId: 2062308
+url: https://katyjqian.shinyapps.io/charity_shiny/
+when: 1557096995.59469
+asMultiple: FALSE
+asStatic: FALSE
